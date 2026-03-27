@@ -1,4 +1,4 @@
-# Cloudiverse — Discord Inventory Bot
+# Discord Inventory Bot
 
 A Discord bot + web control panel for managing and distributing inventory codes to users by tier.
 
